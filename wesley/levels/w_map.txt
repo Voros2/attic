@@ -1,0 +1,3 @@
+map09: Mine HM09
+map13: Return to Earth
+map19: Castle
