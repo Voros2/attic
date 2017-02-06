@@ -1,4 +1,4 @@
-# The![FREEDOOM](https://github.com/Voros2/attic/blob/update/ajapted/graphics/m_doom.gif?raw=1)Attic
+# The Attic
 
 Here, you will find all the resources that were 
 present in earlier versions of _Freedoom_, until they 
